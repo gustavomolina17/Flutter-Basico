@@ -9,4 +9,4 @@
 - [x]  App 01
     - Solar App System - Listagem de planetas utilizando cards
 - [x]  App 02
-    - Frases do dia
+    - Phrases Generator - Frases do dia
